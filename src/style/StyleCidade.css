@@ -1,0 +1,32 @@
+.container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.titulo{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    color: black;
+}
+
+.cidade{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    color: black;
+}
+
+.contImage{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.contImage img{
+    width: 60vw;
+    height: auto;
+    border-style: solid;
+    border-color: black;
+}

@@ -1,0 +1,11 @@
+.contHome{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 90vh;
+}
+
+.home{
+    font-size: 1.5rem;
+}

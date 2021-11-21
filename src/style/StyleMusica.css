@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.containerMusica{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.tituloMusica{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.musica{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.video{
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+}
